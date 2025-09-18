@@ -5,7 +5,7 @@ export default function ContentPage() {
     return (
         <div className="content-page">
             <h1 className="headline">
-                Breaking News: 🌍 Major Event Shakes the World
+                Brseaking News: 🌍 Major Event Shakes the World
             </h1>
             <div className="meta">
                 <span className="author">By John Doe</span> |{" "}
